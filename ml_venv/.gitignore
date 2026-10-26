@@ -1,0 +1,15 @@
+
+# Python virtual environment
+ml_venv/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Saved model
+*.pkl
+
+# PyCharm settings
+.idea/
